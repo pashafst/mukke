@@ -11,4 +11,4 @@ Discord Bot for music
 `sudo -H pip install --upgrade youtube-dl`
 
 * ffmpeg
-** Put ffmpeg in same directory as bot.py
+  * Put ffmpeg in same directory as bot.py
