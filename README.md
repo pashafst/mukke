@@ -2,8 +2,13 @@
 Discord Bot for music
 
 ## Dependencies
-- discord.py
+* discord.py
+
 `python3 -m pip install -U discord.py[voice]`
-- youtube-dl
+
+* youtube-dl
+
 `sudo -H pip install --upgrade youtube-dl`
-- ffmpeg
+
+* ffmpeg
+** Put ffmpeg in same directory as bot.py
